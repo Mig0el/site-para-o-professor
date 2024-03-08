@@ -1,1 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1> SEGUNDA FEIRA</h1>
+    
+    <p> Rotina do dia 26/02</p>
+    <!--
+    <img src="NEWTON1.jpg" alt="logo do newton">
+    -->
+    
+    <ol start="2">
+        <li>Demoman</li>
+        <ol>
+            <li>O Demoman é um ciclope escocês negro que se autodenomina e um especialista em demolições de Ullapool , na Escócia , que é um dos membros mais versáteis da equipe . Um mestre em explosivos, o Demoman causa estrategicamente grandes quantidades de dano indireto e de médio alcance.</li>
+        
 
+        </ol>
+    </ol>
+
+    
+</body>
+</html>
